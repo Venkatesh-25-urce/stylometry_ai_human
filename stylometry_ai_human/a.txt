@@ -1,0 +1,3 @@
+I really like teaching Artificial Intelligence. I usually explain concepts step by step, because students understand difficult topics better when examples are simple. Sometimes, I repeat important points again and again. I also ask students, “Did you understand this concept?”
+
+In my classes, I use Python, machine learning and NLP. I prefer practical examples because they make learning interesting. However, preparing examples takes time. I don't mind spending extra time when students are curious!
